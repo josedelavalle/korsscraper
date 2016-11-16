@@ -1,0 +1,30 @@
+{
+  "name": "korsscraper",
+  "main": "server.js",
+  "author": "Jose DeLavalle",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "express": "~4.0.0",
+    "request": "^2.78.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "kors scraper",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josedelavalle/korsscraper.git"
+  },
+  "keywords": [
+    "kors",
+    "web",
+    "scraper"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josedelavalle/korsscraper/issues"
+  },
+  "homepage": "https://github.com/josedelavalle/korsscraper#readme"
+}
